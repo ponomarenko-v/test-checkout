@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BRANCH="test1"
+BRANCH="test2"
 
 if [[ -v $BRANCH ]]; then
   echo "BRANCH is $BRANCH"
