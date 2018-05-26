@@ -1,5 +1,6 @@
 #!/bin/bash
 
+BRANCH="test1"
 
 if [[ -v $BRANCH ]]; then
   echo "BRANCH is $BRANCH"
